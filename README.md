@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @subrataghosh119
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in long term work
+- 🌱 I’m currently learning golang
+- 💞️ I’m looking to collaborate on fullstack development long Laas/Paas platform
+- 📫 +91 9903 953 791 (softdevsdc@gmail.com)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm A Passionate Full Stack Developer Mobile and WEB</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
